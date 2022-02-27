@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Christian plea against Chrismass and an out-cry against Chrismas-mongers.</title>
+            <author>Chidley, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79487</idno>
+            <idno type="STC">Wing C3834C</idno>
+            <idno type="STC">ESTC R173825</idno>
+            <idno type="EEBO-CITATION">45097628</idno>
+            <idno type="OCLC">ocm 45097628</idno>
+            <idno type="VID">171234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2568:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Christian plea against Chrismass and an out-cry against Chrismas-mongers.</title>
+                  <author>Chidley, Samuel.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. [2] signed: Samuel Chidley.</note>
+                  <note>Reproduction of original in the California State Library, Sutro Branch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171234:1" rendition="simple:additions"/>
+            <p>A Chriſtian PLEA Againſt CHRISMASS AND An OUT-CRY againſt Chriſmas-mongers.</p>
+            <q>
+               <bibl>
+                  <hi>2 COR. 5.16.</hi>
+               </bibl> Though we have known Christ after the fleſh, yet now henceforth know we him no more.</q>
+            <q>
+               <bibl>
+                  <hi>TITUS 1.16.</hi>
+               </bibl>
+               <p>—Their minde and conſcience is defiled.</p>
+               <p>They profeſs they know God, but in their works they deny him; being abominable, and diſobedient, and to every good work reprobate.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 COR. 10.7.</hi>
+               </bibl> Neither be ye idolaters, as were ſome of them: as it is writ<g ref="char:EOLhyphen"/>ten, The people ſate down to eat and drink, and roſe up to play.</q>
+            <p>LONDON, Printed for the Author. 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:171234:2"/>
+            <head>To his Highneſs <hi>OLIVER</hi> Lord Protector AND To the Parliament of <hi>England, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>O ye Aſſembly of Mortal Gods,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Formerly preſented you with a Trea<g ref="char:EOLhyphen"/>tiſe againſt Idols Temples; Here is a Tractate againſt Idols Times: It's in your power to demoliſh the Idols Temples, and aboliſh the idolatrous Times, and to ſuppreſs the prophane crew of Chriſmas-mongers, and ex<g ref="char:EOLhyphen"/>pel ſuch unclean Spirits from your coaſts, and deſtroy the names of the Idols out of theſe places.</p>
+            <p>The Antichriſtian ſect of Chriſmas-mongers is of many hundred years ſtanding, and to be rooted out; eſpe<g ref="char:EOLhyphen"/>cially conſidering that it hath over-ſpread the Nations like a Gangrene; and this their way is their folly, yet their poſterity approve of their ſayings, <hi>Pſal. 49.13.</hi> And although their fore-fathers have inherited lying vanities, yet they will not be wiſer: But you (Legiſlators) have a reſtraining power over them, and therefore I am bold humbly to preſent theſe lines following unto you who are the Heads of the People, and leave you to do as God ſhall per<g ref="char:EOLhyphen"/>ſwade your hearts, and ſo reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your Friend and ſervant</hi> Samuel Chidley.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171234:2"/>
+            <head>A Chriſtian Plea againſt <hi>Chriſmaſs.</hi>
+            </head>
+            <p>SInce the Maſs is put down by the Supream Au<g ref="char:EOLhyphen"/>thority, and that Chriſt is no Maſſe-monger, It concerneth you (Noble Senators) not to keep Chriſts Maſſe falſely ſo called, for it is Antichriſts Maſſe, and I think then it will appear that there are many Antichriſts, and more Papiſts, beſides Ro<g ref="char:EOLhyphen"/>man Catholiques; for they are Papiſts and Maſſe-mongers, who ſolemnize the Maſſe; or ſwear by it, as the Iſraelites of old by the ſin of <hi>Samaria,</hi> or keep Chriſmas (vulgarly ſo called) though they would be all counted <hi>Proteſtants.</hi>
+            </p>
+            <p>If you ſay it's Chriſts time, tide, or birth-day, Wot you not, that Chriſts tide or time is the firſt day of every week? which well-informed Chriſti<g ref="char:EOLhyphen"/>ans obſerve from Even to Even, two and fifty times a year, ſtill keeping in Remembrance the Lords birth, death and Reſurrection; whereas Chriſſmas comes but once a year, (as ſay the Maſſe-mongers themſelves) onely there is ten dayes difference be<g ref="char:EOLhyphen"/>tween the old Style and the New; the <hi>Hollanders</hi> obſerving it ten dayes before the <hi>Engliſh;</hi> for Chriſt indeed foreſeeing the vanity of the Gentiles, hath hid the day of his birth; ſo that all the Chriſtians in the world cannot finde that time, more then the <hi>Jews</hi> the place of <hi>Moſes</hi> Sepulchre.</p>
+            <p>Nevertheleſs the ſupream Sabbath, even the Lords day, the firſt day of the week, <hi>Joh.</hi> 20.1. rightly call<g ref="char:EOLhyphen"/>ed by the papiſts the Dominical day, in the Rhemiſh Teſtament, <hi>Rev.</hi> 1.10. is known throughout all Chriſtendome; It is the day which God hath made,
+<pb n="2" facs="tcp:171234:3"/> 
+               <hi>Pſal.</hi> 118.24. a holy convocation, <hi>Lev.</hi> 23.7. a day of better acceptation, <hi>v.</hi> 11. the day of Chriſts reſur<g ref="char:EOLhyphen"/>rection, <hi>Mar.</hi> 16. and of the holy Ghoſts deſcenſion, <hi>Act.</hi> 2. (as is ſhew'd by <hi>Chidley</hi> in his book called the <hi>Evening Star,</hi>) this is the day wherein we are called to rejoyce, <hi>Pſal.</hi> 118.24. &amp; one day of ſolemn aſſem<g ref="char:EOLhyphen"/>bly in the Lords Courts, is better then a thouſand, <hi>Pſal,</hi> 84.10 &amp; a thouſand, then a thouſand thouſand.</p>
+            <p>And although our enemies (and the <hi>Hollanders</hi>) keep their Chriſmas-day more ſolemnly then the Lords day, and profane the ſacred time which God hath ſo highly honoured, yet the Apoſtle of the Gentiles, who had the minde of Chriſt, ſaith, <hi>Hence<g ref="char:EOLhyphen"/>forth know we no man after the fleſh, yea though we have known Chriſt after the fleſh, yet now henceforth know we him no more,</hi> 2 Cor. 5 16.</p>
+            <p>For if the day of Chriſts <hi>death were better then the day of his birth,</hi> how much more then his <hi>reſurrection.</hi> St. <hi>Paul</hi> ſaith, <hi>If Chriſt be not riſen, then is our preach<g ref="char:EOLhyphen"/>ing vain, and your faith is alſo vain.</hi> And again he ſaith, <hi>If Chriſt be not raiſed, your Faith is vain, ye are yet in your ſins,</hi> 1 Cor. 15.14, 17.</p>
+            <p>Why then do the fleſhly-minded Gentiles feed themſelves with ſuch fancies, of their own imagi<g ref="char:EOLhyphen"/>nations, and reproach others that will not dance with them about ſuch Calves of invention? A foo<g ref="char:EOLhyphen"/>liſh people! Who hath bewitched them? For they have not the true Chriſt neither do they ſerve him, but their own bellies; For Chriſt was not as they ſet him forth to be, He was no Maſs-monger or bel<g ref="char:EOLhyphen"/>ly God, No drunkard: He wanted neither cards, dice nor Tables to play with, to paſs away the time; nor Lord of miſ-rule to take his place, He needed no
+<pb n="3" facs="tcp:171234:3"/> new Games to make him merry, no Holly or Ivy to dreſs his windowes, nor Miſletow to conjure his lo<g ref="char:EOLhyphen"/>vers, nor other toyes to pleaſe his fancy, or blind<g ref="char:EOLhyphen"/>folded fools, or Hot Cockle payers to make him ſport, But was born in poverty, lived in afflicti<g ref="char:EOLhyphen"/>on, and died in diſtreſs; A man of ſorrows, and ac<g ref="char:EOLhyphen"/>quainted with grief, as a worm and no man, Yet not without hope, for God had cauſed him to truſt in him from his mothers womb; And though he was crucified through weakneſs, yet was he raiſed up with power, and made an high Prieſt, not after the law of a carnal Commandment, but after the pow<g ref="char:EOLhyphen"/>er of an endleſs life.</p>
+            <p>Therefore it is humbly deſired by the well-affect<g ref="char:EOLhyphen"/>ed, That the Parliament would with great ſeverity puniſh the profanation of the Lords day, &amp; decree,</p>
+            <p>That no Chriſmaſs-day, or ſuch like fooleries, be ſet in the Almanacks, or obſerved.</p>
+            <p>That the names of Idols may be no more in re<g ref="char:EOLhyphen"/>membrance throughout the Dominions of the Common-wealth of <hi>England.</hi>
+            </p>
+            <p>And it's alſo humbly deſired, that the High and Mighty States of <hi>England</hi> would not adjourne, but ſit all the idle time called Chriſmaſs, in direct op<g ref="char:EOLhyphen"/>poſition to the vanity of the Gentiles who profeſs that they know God, but in works deny him.</p>
+            <p>Nevertheleſs it is in your Honours liberty, <hi>So that if any one bid you to a Feaſt, and ye be diſpoſed to go,</hi> you may <hi>eat that which is ſet before you, ask<g ref="char:EOLhyphen"/>ing no queſtion for conſcience ſake. But if any one ſay unto you, This or that is offered in ſacrifice to an Idol</hi> (as the Maſs is an abominable Idol) <hi>eat not, for his ſake that ſhewed it, and for conſcience ſake,</hi> but rather feed with bread and water, Conſider <hi>Daniel,</hi> and his fellowes, whoſe health and countenance in holy abſtinence was well, and their wiſdome tranſcend<g ref="char:EOLhyphen"/>ing all the wiſeſt men in <hi>Babylon;</hi> and God delivered them from all their enemies, and he is able to deliver us. If we will ſeek for experi<g ref="char:EOLhyphen"/>ence the right way, we ſhall finde much of God in Jeſus Chriſt, whilſt Maſs-mongers feed their bodies with Anti Chriſmaſs-Pies, and famiſh their ſouls, and periſh eternally, being without Chriſt the bread of life, which came down from heaven.</p>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:171234:4"/>
+            <head>An OUT-CRY AGAINST CHRISMASS-MONGERS.</head>
+            <p>CHriſmaſs-mongers are the worſt ſort of Chriſtians; when Antichriſmas comes, they ſhew themſelves by their fruits, to be Chriſtians in name, but Antichriſtians in nature; and their hearts not worth a halfpeny, (<hi>Prov.</hi> 10.20.) for they are the Popes Imps, Malignants in ſoul and fleſh, polluted in lips and life.</p>
+            <p>Their Religion at the beſt is but like a thred-bare cloak out-worn, and their Converſation ſpotted by the fleſh; they are not filled with grace, but with meat; Chriſmaſs cheer is their charity, and their hope is in this life, and their faith no better then the faith of devils, <hi>who believe and tremble,</hi> Jam. 2.19.</p>
+            <p>They are often drunk with wine and ſtrong drink, but never filled with the Spirit, but with the ſpirit of envie; their Hymns are carnal, not ſpiritual, unleſs ſpiritual wickedneſſes ſet up in their high places; Their ſongs are Chriſmas Carols, not of the Lamb Chriſt; their contemplation is on their Cards, to play at 31. a fraction of Antichriſt's number. They make uſe of Chriſt Jeſus his name (chawing it in their mouth as common beggers do) for their private advantage, but care neither for him nor his ſubſti<g ref="char:EOLhyphen"/>tutes here on earth, but for their Soveraign Lord their belly, that is their God, and their glory is their ſhame; ſhall not their end be deſtruction? for they are enemies to Jeſus Chriſt, and minde earthly things, and make the devil their play-fellow. And yet theſe children of wrath will needs be called Chriſtians, and fly unto Chriſt the Saviour of Saints, to reſcue them from the wrath to come, without bringing forth fruits meet for repentance.</p>
+            <p>O thou earthly Protector and Parliament of <hi>England,</hi> not of <hi>Iſrael,</hi> Was not <hi>Sion</hi> called <hi>Sodome,</hi> becauſe of the Crying ſins therein, Pride, Idleneſs, Gluttony, and Cruelty? And now at ſuch Maſſing times theſe abominations are cloked under the pretence of Chriſmaſs.</p>
+            <pb n="5" facs="tcp:171234:4"/>
+            <p>What greater patcht impiety, and impurity then now? the Proteſtants mangle Chriſt with their minced Pies, the Papiſts like Caniballs eat him up, fleſh, blood, bones and all, if they may be believed</p>
+            <p>For Chriſmaſs ſake, the Parliaments Orders have been con<g ref="char:EOLhyphen"/>temned, tumults raiſed, the Ten Commandments broken; Yea, the Thief will ſteal and rob his own father againſt Chriſmaſs, though it coſt him dear; and the poor will pawn all to the cloaths of their back, to provide Chriſmaſs Pies for their be lies, and the broath of Abominable things in their veſſels, though they ſtarve or pine for it all the year after. Is not this religion rebellion, O ye rulers of this people? yea, it is ſo; And he that refraineth him<g ref="char:EOLhyphen"/>ſelf from theſe evils, maketh himſelf a prey.</p>
+            <closer>
+               <signed>Samuel Chidley.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>A leſſon for the whole ſect of Chriſmas-mongers.</head>
+            <l>MAsks, Mummings, Maſſings, are made Coverings</l>
+            <l>For Chriſmaſs-mongers to do evil things.</l>
+            <l>There's carding, diceing, drinking, bellowing, roaring,</l>
+            <l>And under Chriſmaſs cloaks rogues go a whoring.</l>
+            <l>In fudling Schools 'mongſt fools, there <hi>Bacchus</hi> bears the Bell,</l>
+            <l>And Chriſmaſs-mongers dance and prance away to hell.</l>
+            <closer>
+               <signed>S. C.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſt-ſcript.</head>
+            <p>SInce this was in the preſs, I underſtand that the Right Honorable Sir <hi>Robert Tichburne</hi> Knight, Lord Mayor of the City of <hi>London,</hi> hath taken Or<g ref="char:EOLhyphen"/>der for the protecting of thoſe who ſhall open their ſhops on Chriſmaſs day: good reaſon it is that the Parliament ſhould give due encouragement to ſuch zealous Magiſtrates, in the execution of their duty, and by one Act put down Chriſmaſs, (wholly) throughout City and Country.</p>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:171234:5"/>
+            <head>Here followeth an order of the firſt Parlia<g ref="char:EOLhyphen"/>ment againſt Chriſmaſs; which order the Malignants condemned, and abuſed the honeſt Citizens in their ſhops on Chriſ<g ref="char:EOLhyphen"/>maſs Day, for want of an effectual courſe againſt Chriſmaſs.</head>
+            <opener>
+               <date>Friday, <hi>the 24 of</hi> December, <hi>1652.</hi>
+               </date>
+            </opener>
+            <p>REſolved by the Parliament, That the Markets be kept to morrow being the <hi>25</hi> day of <hi>December,</hi> and that the Lord Mayor, and Sheriffs of London, and <hi>Middleſex,</hi> and the Juſtices of Peace for the City of <hi>Weſtminſter,</hi> and liberties thereof, do take care that all ſuch perſons as ſhall open their ſhops on that day, be protected from wrong or violence, and the offenders puniſhed.</p>
+            <p>Reſolved by the Parliament, That no obſervation ſhall be had of the <hi>25</hi> of <hi>December,</hi> commonly called CHRIS<g ref="char:EOLhyphen"/>MASS DAY, nor any ſolemnity uſed or exerciſed in Churches upon that day in reſpect thereof.</p>
+            <p>Ordered by the Parliament, That the Lord Mayor in the City of <hi>London,</hi> and Sheriffs of <hi>London</hi> and <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> and the Juſtices of the Peace of <hi>Middleſex,</hi> reſpective<g ref="char:EOLhyphen"/>ly, be authorized and required to ſee this order duly obſerv<g ref="char:EOLhyphen"/>ed within the lines of Communication, and Weekly Bills of Mortality.</p>
+            <closer>
+               <signed>Hen: Scobel, Cler. Parl.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
